@@ -3,10 +3,10 @@ Shared = {
     
     Price = 250, -- How much it cost to create a information marker, set to false if you want it to be free.
 
-    Distance = 30.0, 
+    Distance = 30.0, -- How close you should be to a marker for it to render
 
-    MarkerSize = {x = 0.5, y = 0.5, z = 0.5},
-    
+    MarkerSize = {x = 0.5, y = 0.5, z = 0.5}, -- why would you change this?
+     
     MarkerColor = {r = 255, g = 255, b = 0, a = 100},  -- Use this website for colors https://rgbacolorpicker.com/ 
 
     Commands = {

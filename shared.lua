@@ -7,7 +7,7 @@ Shared = {
 
     MarkerSize = {x = 0.5, y = 0.5, z = 0.5},
     
-    MarkerColor = {r = 255, g = 255, b = 0, a = 100},  -- dont change the A color.
+    MarkerColor = {r = 255, g = 255, b = 0, a = 100},  -- Use this website for colors https://rgbacolorpicker.com/ 
 
     Commands = {
         infomarker = {
